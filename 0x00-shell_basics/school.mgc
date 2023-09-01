@@ -1,2 +1,2 @@
-0 string HOLBERTON Holberton data
-file -m school.mgc your_school_data_file
+0 string SCHOOL School data files
+!:mime School
