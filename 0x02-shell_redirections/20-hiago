@@ -1,0 +1,3 @@
+#!/bin/bash
+filtered_input=$(cat | tr -d 'cC')
+echo "$filtered_input"
